@@ -432,7 +432,7 @@ function showKeranjangModal() {
         </div>
         <div class="p-6 text-center">
           <h3 class="text-lg md:text-2xl font-bold text-gray-800 mb-2">Success!</h3>
-          <p class="text-gray-600 mb-6">Proudk telah ditambahkan ke keranjang!</p>
+          <p class="text-gray-600 mb-6">Produk telah ditambahkan ke keranjang!</p>
           <button class="close-modal w-full bg-emerald-500 hover:bg-emerald-600 text-white font-medium py-3 px-4 rounded-lg transition duration-300">
             Continue
           </button>
